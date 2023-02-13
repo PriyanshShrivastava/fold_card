@@ -113,8 +113,8 @@ body {
 
 @media (max-width: 40em) {
   .card {
-    width: 150px;
-    height: 200px;
+    width: 200px;
+    height: 250px;
   }
 
   h2 {
